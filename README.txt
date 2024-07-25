@@ -1,4 +1,4 @@
-* played with a ready-template from html5up, quick fun experience
+* first project of Headstarter fellowship to build a personal website, i played with a ready-template from html5up, quick fun experience
 
 Miniport by HTML5 UP
 html5up.net | @ajlkn
